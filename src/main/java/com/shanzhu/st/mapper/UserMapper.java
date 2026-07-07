@@ -8,10 +8,7 @@ import java.util.List;
 
 /**
  * 用户 数据持久层
- *
- * @author: ShanZhu
- * @date: 2024-01-05
- */
+  */
 @Mapper
 public interface UserMapper {
     int deleteByPrimaryKey(Long id);

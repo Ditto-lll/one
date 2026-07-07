@@ -7,9 +7,7 @@ import java.io.IOException;
 /**
  * 文件 业务服务层
  *
- * @author: ShanZhu
- * @date: 2024-01-05
- */
+  */
 public interface FileService {
 
     /**

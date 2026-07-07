@@ -8,9 +8,7 @@ import java.util.List;
 /**
  * 闲置商品 数据持久层
  *
- * @author: ShanZhu
- * @date: 2024-01-05
- */
+  */
 @Mapper
 public interface IdleItemMapper {
     int deleteByPrimaryKey(Long id);

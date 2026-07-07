@@ -6,12 +6,7 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Date;
 
-/**
- * 订单 实体对象
- *
- * @author: ShanZhu
- * @date: 2024-01-05
- */
+
 @Data
 public class Order implements Serializable {
 

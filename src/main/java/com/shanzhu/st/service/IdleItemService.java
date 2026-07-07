@@ -8,9 +8,7 @@ import java.util.List;
 /**
  * 闲置物品 服务层
  *
- * @author: ShanZhu
- * @date: 2024-01-05
- */
+  */
 public interface IdleItemService {
 
     /**

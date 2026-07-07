@@ -14,9 +14,7 @@ import java.util.Date;
 /**
  * 闲置商品 控制层
  *
- * @author: ShanZhu
- * @date: 2024-01-05
- */
+  */
 @CrossOrigin
 @RestController
 @RequestMapping("idle")

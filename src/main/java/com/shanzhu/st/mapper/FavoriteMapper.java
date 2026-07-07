@@ -8,9 +8,7 @@ import java.util.List;
 /**
  * 收藏 数据库持久层
  *
- * @author: ShanZhu
- * @date: 2024-01-05
- */
+  */
 @Mapper
 public interface FavoriteMapper {
 

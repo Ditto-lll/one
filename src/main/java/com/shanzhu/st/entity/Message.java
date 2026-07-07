@@ -5,12 +5,7 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * 留言 实体对象
- *
- * @author: ShanZhu
- * @date: 2024-01-05
- */
+
 @Data
 public class Message implements Serializable {
 

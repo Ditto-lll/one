@@ -96,7 +96,7 @@
                 </configuration>
             </plugin>
 
-            <!-- 这里我帮你修复了版本，完美匹配 2.7.18 -->
+
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>

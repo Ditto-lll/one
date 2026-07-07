@@ -1,12 +1,7 @@
 package com.shanzhu.st.enums;
 
 
-/**
- * 错误信息美剧
- *
- * @author: ShanZhu
- * @date: 2024-01-05
- */
+
 public enum ErrorMsg {
 
     ACCOUNT_EXIT("用户已存在"),

@@ -16,9 +16,7 @@ import java.sql.Timestamp;
 /**
  * 用户相关 控制层
  *
- * @author: ShanZhu
- * @date: 2024-01-05
- */
+  */
 @CrossOrigin
 @RestController
 @RequestMapping("user")

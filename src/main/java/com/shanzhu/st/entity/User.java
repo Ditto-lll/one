@@ -5,12 +5,7 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * 用户 实体对象
- *
- * @author: ShanZhu
- * @date: 2024-01-05
- */
+
 @Data
 public class User implements Serializable {
 

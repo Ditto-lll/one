@@ -11,9 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * <p>
  * 什么是SpringBoot？（https://www.php.cn/faq/498384.html）
  *
- * @author: ShanZhu
- * @date: 2024-01-05
- */
+  */
 @Slf4j
 @SpringBootApplication()
 public class BackendApplication {
